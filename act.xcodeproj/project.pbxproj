@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F0DA3B32A891DDB0038BAAA /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F0DA3B22A891DDB0038BAAA /* LoadingView.swift */; };
 		6FA77A9F2A79529300962E53 /* actApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FA77A9E2A79529300962E53 /* actApp.swift */; };
 		6FA77AA12A79529300962E53 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FA77AA02A79529300962E53 /* ContentView.swift */; };
 		6FA77AA32A79529400962E53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FA77AA22A79529400962E53 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F0DA3B22A891DDB0038BAAA /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		6FA77A9B2A79529300962E53 /* act.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = act.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FA77A9E2A79529300962E53 /* actApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = actApp.swift; sourceTree = "<group>"; };
 		6FA77AA02A79529300962E53 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				6FA77A9E2A79529300962E53 /* actApp.swift */,
 				6FA77AA02A79529300962E53 /* ContentView.swift */,
+				6F0DA3B22A891DDB0038BAAA /* LoadingView.swift */,
 				6FA77AA22A79529400962E53 /* Assets.xcassets */,
 				6FA77AA72A79529400962E53 /* Persistence.swift */,
 				6FA77AAC2A79529400962E53 /* Info.plist */,
@@ -148,6 +151,7 @@
 				6FA77AAB2A79529400962E53 /* act.xcdatamodeld in Sources */,
 				6FA77AA82A79529400962E53 /* Persistence.swift in Sources */,
 				6FA77AA12A79529300962E53 /* ContentView.swift in Sources */,
+				6F0DA3B32A891DDB0038BAAA /* LoadingView.swift in Sources */,
 				6FA77A9F2A79529300962E53 /* actApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
